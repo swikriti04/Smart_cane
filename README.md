@@ -54,4 +54,4 @@ It’ll also use planning algorithm to suggest them the correct path.
 
 ## Path planning 
 
-![](Images/pathplanning.jpg)
+![](Images/Pathplanning.jpg)
