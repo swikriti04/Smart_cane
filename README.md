@@ -29,6 +29,13 @@ Our overall project comes under three themes :
            - AI
            - Healthcare                  
 
+## Tech Stack
+
+- Artificial intelligence
+- Internet of things
+- Text to speech recognition
+- Computer vision
+
 ## Working 
 
 The camera fitted in the cane will capture each frame and will detect the object using a pre-trained AI model (YOLOv4)
